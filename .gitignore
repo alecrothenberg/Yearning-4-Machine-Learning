@@ -1,1 +1,4 @@
-dataset info.html
+dataset/dataset\ info.html
+dataset/split-by-categories-audio.bat
+dataset/split-by-categories-lyrics.bat
+dataset/split-by-categories-midi.bat
